@@ -11,10 +11,12 @@
 
 <!-- Presentation -->
 
-**`Micaias Nascimento `**
+Micaias Nascimento 
 
-Criador, estudante e Programador. Sou um grande entusiasta do mundo hacker, estou sempre em busca de desenvolver minhas habilidades e crescer profissionalmente atráves da minha paixão que é tecnologia.
-
+    ❤  Criador, estudante e Programador. Entusiasta do mundo hacker e apaixonado por tecnologia
+    🌱 Graduando engenharia da computação na Descomplica e cursando engenharia de software na DNC
+    😄 Pronouns: ele/dele
+    📞 Contato: (63) 99213-9360
 
 
 <p align="left">
